@@ -1,0 +1,26 @@
+{
+  "name": "tesseract",
+  "displayName": "Tesseract",
+  "version": "1.0.0",
+  "description": "Make video ads, clips, long videos, photo effects and pictures from your conversation with your Tesseract account, through Tesseract's hosted connector.",
+  "author": {
+    "name": "Eightcell Labs",
+    "email": "ops@tesseract.dev",
+    "url": "https://tesseract.dev"
+  },
+  "homepage": "https://tesseract.dev/mcp/",
+  "repository": "https://github.com/opentech-dev/tesseract-claude-plugin",
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://tesseract.dev/mcp/",
+  "supportUrl": "https://tesseract.dev/contact/",
+  "privacyPolicyUrl": "https://tesseract.dev/privacy/",
+  "termsOfServiceUrl": "https://tesseract.dev/terms/",
+  "license": "MIT",
+  "keywords": [
+    "video",
+    "video-ads",
+    "effects",
+    "images",
+    "media"
+  ]
+}

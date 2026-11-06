@@ -1,0 +1,16 @@
+{
+  "name": "tesseract",
+  "description": "Tesseract for Claude: video ads, clips, long videos, photo effects and pictures on your own Tesseract account.",
+  "owner": {
+    "name": "Eightcell Labs",
+    "email": "ops@tesseract.dev",
+    "url": "https://tesseract.dev"
+  },
+  "plugins": [
+    {
+      "name": "tesseract",
+      "source": "./",
+      "description": "Make video ads, clips, long videos, photo effects and pictures from your conversation with your Tesseract account, through Tesseract's hosted connector."
+    }
+  ]
+}
