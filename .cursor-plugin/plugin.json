@@ -1,0 +1,15 @@
+{
+  "name": "tesseract",
+  "displayName": "Tesseract",
+  "version": "1.0.0",
+  "description": "Make video ads, clips, long videos, photo effects and pictures from Cursor with your Tesseract account, through Tesseract's hosted connector.",
+  "author": {
+    "name": "Eightcell Labs, Inc.",
+    "email": "ops@tesseract.dev"
+  },
+  "homepage": "https://tesseract.dev/mcp/",
+  "repository": "https://github.com/opentech-dev/tesseract-claude-plugin",
+  "license": "MIT",
+  "keywords": ["mcp", "video", "video-ads", "effects", "images", "media"],
+  "logo": "assets/logo-400.png"
+}

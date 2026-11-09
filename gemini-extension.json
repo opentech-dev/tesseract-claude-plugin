@@ -1,0 +1,10 @@
+{
+  "name": "tesseract",
+  "version": "1.0.0",
+  "description": "Make video ads, clips, long videos, photo effects and pictures with your Tesseract account.",
+  "mcpServers": {
+    "tesseract": {
+      "httpUrl": "https://app.tesseract.dev/api/core/tesseract/mcp"
+    }
+  }
+}

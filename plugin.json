@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "tesseract",
+  "version": "1.0.0",
+  "description": "Make video ads, clips, long videos, photo effects and pictures with your Tesseract account.",
+  "author": {
+    "name": "Eightcell Labs, Inc.",
+    "email": "ops@tesseract.dev",
+    "url": "https://tesseract.dev"
+  },
+  "homepage": "https://tesseract.dev/mcp/",
+  "license": "MIT",
+  "keywords": ["video", "video-ads", "effects", "images", "media"]
+}

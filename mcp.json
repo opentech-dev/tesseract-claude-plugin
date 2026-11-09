@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "tesseract": {
+      "type": "streamable-http",
+      "url": "https://app.tesseract.dev/api/core/tesseract/mcp"
+    }
+  }
+}

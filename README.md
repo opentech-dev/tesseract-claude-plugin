@@ -38,6 +38,17 @@ The connector's tools: `list_models`, `list_effects`, `generate_image`, `edit_im
 
 The full guide, with the same steps for other apps, is at [tesseract.dev/mcp](https://tesseract.dev/mcp/).
 
+## Other apps
+
+The same repository installs in other agents:
+
+| App | Install |
+|---|---|
+| Gemini CLI | `gemini extensions install https://github.com/opentech-dev/tesseract-claude-plugin` |
+| Cursor | Add it from the Cursor Marketplace once listed, or point Cursor at this repository (`.cursor-plugin/plugin.json`, `mcp.json`) |
+| Any agent that reads skills | `npx skills add opentech-dev/tesseract-claude-plugin` |
+| Any MCP app | Add the remote server `https://app.tesseract.dev/api/core/tesseract/mcp` (Streamable HTTP, OAuth); guide at [tesseract.dev/mcp](https://tesseract.dev/mcp/) |
+
 ## Cost
 
 Each picture, effect or video is charged to your Tesseract plan: its free media first, then its allowance or balance.
