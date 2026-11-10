@@ -14,6 +14,9 @@ This is Tesseract by Eightcell Labs, Inc. ([tesseract.dev](https://tesseract.dev
 Mirage or its "Tesseract by Mirage" product, with the Tesseract OCR engine, or with any other product or company named
 Tesseract.
 
+The free Tesseract desktop app (Mac, Windows and Linux) also runs Claude Code, Codex and 12 more coding agents
+beside a code editor, a terminal and a live preview: [tesseract.dev/agentic-ide](https://tesseract.dev/agentic-ide/).
+
 ## What's inside
 
 | Part | What it does |
