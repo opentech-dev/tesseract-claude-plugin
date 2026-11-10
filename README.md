@@ -10,6 +10,10 @@ finished file.
 Everything you make is charged to your own Tesseract plan, exactly as in the Tesseract app. Nothing runs on your
 computer.
 
+This is Tesseract by Eightcell Labs, Inc. ([tesseract.dev](https://tesseract.dev)). It is not affiliated in any way with
+Mirage or its "Tesseract by Mirage" product, with the Tesseract OCR engine, or with any other product or company named
+Tesseract.
+
 ## What's inside
 
 | Part | What it does |
